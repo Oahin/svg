@@ -1,5 +1,5 @@
 {
-  "name": "svg-roomplanner",
+  "name": "svg",
   "version": "0.0.0",
   "description": "",
   "homepage": "",
@@ -15,13 +15,13 @@
     "document": "documentjs",
     "build": "node build"
   },
-  "main": "svg-roomplanner/index.stache!done-autorender",
+  "main": "svg/index.stache!done-autorender",
   "files": [
     "src"
   ],
   "keywords": [],
   "system": {
-    "main": "svg-roomplanner/index.stache!done-autorender",
+    "main": "svg/index.stache!done-autorender",
     "directories": {
       "lib": "src"
     },
